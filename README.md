@@ -101,6 +101,10 @@ All styles use Tailwind utility classes. Modify the HTML classes to adjust:
 - Typography (text-*, font-*)
 - Responsive behavior (sm:, md:, lg:, xl:)
 
+## for icons  
+i have used 
+https://flowbite.com/icons/
+
 ## 📱 Responsive Breakpoints
 
 - **sm**: 640px - Small devices
