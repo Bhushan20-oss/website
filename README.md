@@ -104,7 +104,7 @@ npm install
 
 ## 3️⃣ Build Tailwind CSS
 npm run build
-
+```
 ## 📁 Project Structure
 
 Website/
