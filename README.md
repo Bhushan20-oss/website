@@ -4,7 +4,7 @@ A modern, fully responsive personal portfolio website built using **HTML**, **Ta
 
 This portfolio highlights my technical expertise, creativity, and clean UI/UX design approach.  
 
-![Portfolio Preview](https://drive.google.com/drive/my-drive)
+![Portfolio Preview](https://drive.google.com/file/d/1VFs73d35p6JBLYrpoQ5tAJ5x49YRX_4E/view?usp=sharing)
 
 ---
 
