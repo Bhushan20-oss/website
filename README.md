@@ -4,13 +4,13 @@ A modern, fully responsive personal portfolio website built using **HTML**, **Ta
 
 This portfolio highlights my technical expertise, creativity, and clean UI/UX design approach.  
 
-![Portfolio Preview](https://bhushanbhomkar.vercel.app/)
+![Portfolio Preview](https://drive.google.com/drive/my-drive)
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **Visit here:** [bhushan-omega.vercel.app](https://bhushanbhomkar.vercel.app/)
+🔗 **Visit here:** [bhushanbhomkar.com](https://bhushanbhomkar.vercel.app/)
 
 ---
 
